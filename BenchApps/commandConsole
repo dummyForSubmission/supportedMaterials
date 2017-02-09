@@ -1,0 +1,463 @@
+
+ActivityCommunication1.apk
+Enter Passphrase for keystore: jar signed.
+
+Warning: 
+No -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2043-10-05) or after any future revocation date.
+[100%] /data/local/tmp/ActivityCommunication1.apk
+	pkg: /data/local/tmp/ActivityCommunication1.apk
+Success
+:Monkey: seed=1485334123441 count=50
+:AllowPackage: de.ecspride
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.ecspride/.Activity1;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.ecspride/.Activity1 } in package de.ecspride
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(308.0,829.0)
+:Sending Touch (ACTION_UP): 0:(325.28134,828.53)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+Events injected: 50
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=280ms (0ms mobile, 0ms wifi, 280ms not connected)
+// Monkey finished
+Success
+Finish --  begin sleep
+ActivityLifecycle2.apk
+Enter Passphrase for keystore: jar signed.
+
+Warning: 
+No -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2043-10-05) or after any future revocation date.
+[100%] /data/local/tmp/ActivityLifecycle2.apk
+	pkg: /data/local/tmp/ActivityLifecycle2.apk
+Success
+:Monkey: seed=1485334136697 count=50
+:AllowPackage: de.ecspride
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.ecspride/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.ecspride/.MainActivity } in package de.ecspride
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1345.0,2268.0)
+Events injected: 50
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=278ms (0ms mobile, 0ms wifi, 278ms not connected)
+// Monkey finished
+Success
+Finish --  begin sleep
+ArrayAccess1.apk
+Enter Passphrase for keystore: jar signed.
+
+Warning: 
+No -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2043-10-05) or after any future revocation date.
+[100%] /data/local/tmp/ArrayAccess1.apk
+	pkg: /data/local/tmp/ArrayAccess1.apk
+Success
+:Monkey: seed=1485334149928 count=50
+:AllowPackage: de.ecspride
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.ecspride/.ArrayAccess1;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.ecspride/.ArrayAccess1 } in package de.ecspride
+:Sending Touch (ACTION_DOWN): 0:(535.0,2265.0)
+:Sending Touch (ACTION_UP): 0:(586.3925,2300.537)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.chrome/com.google.android.apps.chrome.Main } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(898.0,1321.0)
+:Sending Touch (ACTION_UP): 0:(900.19434,1322.0315)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(896.0,1537.0)
+:Sending Touch (ACTION_UP): 0:(896.0412,1522.6514)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+Events injected: 50
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=291ms (0ms mobile, 0ms wifi, 291ms not connected)
+// Monkey finished
+Success
+Finish --  begin sleep
+Button1.apk
+Enter Passphrase for keystore: jar signed.
+
+Warning: 
+No -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2043-10-05) or after any future revocation date.
+[100%] /data/local/tmp/Button1.apk
+	pkg: /data/local/tmp/Button1.apk
+Success
+:Monkey: seed=1485334163217 count=50
+:AllowPackage: de.ecspride
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.ecspride/.Button1;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.ecspride/.Button1 } in package de.ecspride
+:Sending Touch (ACTION_DOWN): 0:(356.0,237.0)
+:Sending Touch (ACTION_UP): 0:(355.94272,236.83556)
+:Sending Touch (ACTION_DOWN): 0:(1391.0,182.0)
+:Sending Touch (ACTION_UP): 0:(1440.0,229.90532)
+:Sending Touch (ACTION_DOWN): 0:(1080.0,2269.0)
+:Sending Touch (ACTION_UP): 0:(1075.3473,2266.357)
+:Sending Touch (ACTION_DOWN): 0:(611.0,376.0)
+:Sending Touch (ACTION_UP): 0:(607.37335,370.2532)
+:Sending Touch (ACTION_DOWN): 0:(271.0,435.0)
+:Sending Touch (ACTION_UP): 0:(263.36935,437.9189)
+:Sending Touch (ACTION_DOWN): 0:(672.0,2169.0)
+:Sending Touch (ACTION_UP): 0:(710.10846,2112.6953)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+Events injected: 50
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=271ms (0ms mobile, 0ms wifi, 271ms not connected)
+// Monkey finished
+Success
+Finish --  begin sleep
+DirectLeak1.apk
+Enter Passphrase for keystore: jar signed.
+
+Warning: 
+No -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2043-10-05) or after any future revocation date.
+[100%] /data/local/tmp/DirectLeak1.apk
+	pkg: /data/local/tmp/DirectLeak1.apk
+Success
+:Monkey: seed=1485334176448 count=50
+:AllowPackage: de.ecspride
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.ecspride/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.ecspride/.MainActivity } in package de.ecspride
+:Sending Touch (ACTION_DOWN): 0:(778.0,1036.0)
+:Sending Touch (ACTION_UP): 0:(760.1738,1051.6512)
+:Sending Touch (ACTION_DOWN): 0:(998.0,1754.0)
+:Sending Touch (ACTION_UP): 0:(1018.77094,1767.2086)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.deskclock/com.android.deskclock.DeskClock } in package com.google.android.deskclock
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.ecspride/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.ecspride/.MainActivity } in package de.ecspride
+:Sending Touch (ACTION_DOWN): 0:(829.0,2125.0)
+:Sending Touch (ACTION_UP): 0:(854.908,2138.2747)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+Events injected: 50
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=269ms (0ms mobile, 0ms wifi, 269ms not connected)
+// Monkey finished
+Success
+Finish --  begin sleep
+InheritedObjects1.apk
+Enter Passphrase for keystore: jar signed.
+
+Warning: 
+No -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2043-10-05) or after any future revocation date.
+[100%] /data/local/tmp/InheritedObjects1.apk
+	pkg: /data/local/tmp/InheritedObjects1.apk
+Success
+:Monkey: seed=1485334189660 count=50
+:AllowPackage: de.ecspride
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.ecspride/.InheritedObjects1;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.ecspride/.InheritedObjects1 } in package de.ecspride
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1008.0,762.0)
+:Sending Touch (ACTION_UP): 0:(995.61304,773.70526)
+:Sending Touch (ACTION_DOWN): 0:(1292.0,305.0)
+:Sending Touch (ACTION_UP): 0:(1296.3271,304.27634)
+:Sending Touch (ACTION_DOWN): 0:(282.0,782.0)
+:Sending Touch (ACTION_UP): 0:(304.61002,766.06976)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+Events injected: 50
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=281ms (0ms mobile, 0ms wifi, 281ms not connected)
+// Monkey finished
+Success
+Finish --  begin sleep
+Loop2.apk
+Enter Passphrase for keystore: jar signed.
+
+Warning: 
+No -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2043-10-05) or after any future revocation date.
+[100%] /data/local/tmp/Loop2.apk
+	pkg: /data/local/tmp/Loop2.apk
+Success
+:Monkey: seed=1485334202921 count=50
+:AllowPackage: de.ecspride
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.ecspride/.LoopExample2;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.ecspride/.LoopExample2 } in package de.ecspride
+:Sending Touch (ACTION_DOWN): 0:(1402.0,1460.0)
+:Sending Touch (ACTION_UP): 0:(1334.335,1389.188)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+Events injected: 50
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=219ms (0ms mobile, 0ms wifi, 219ms not connected)
+// Monkey finished
+Success
+Finish --  begin sleep
+/home/dummy/Repair/rewrite/TaintInstr/sootOutput/Merge1.apk
+Enter Passphrase for keystore: jar signed.
+
+Warning: 
+No -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2043-10-05) or after any future revocation date.
+[100%] /data/local/tmp/Merge1.apk
+	pkg: /data/local/tmp/Merge1.apk
+Success
+:Monkey: seed=1485334217293 count=50
+:AllowPackage: de.ecspride
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.ecspride/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.ecspride/.MainActivity } in package de.ecspride
+:Sending Touch (ACTION_DOWN): 0:(1327.0,1976.0)
+:Sending Touch (ACTION_UP): 0:(1333.3271,1973.5414)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=example.test.noncontroldatahijacking/.MainActivity } in package example.test.noncontroldatahijacking
+:Sending Touch (ACTION_DOWN): 0:(729.0,1317.0)
+:Sending Touch (ACTION_UP): 0:(684.71875,1337.31)
+:Sending Touch (ACTION_DOWN): 0:(1248.0,1107.0)
+:Sending Touch (ACTION_UP): 0:(1236.13,1114.6677)
+:Sending Touch (ACTION_DOWN): 0:(789.0,702.0)
+:Sending Touch (ACTION_UP): 0:(788.9485,695.0104)
+:Sending Touch (ACTION_DOWN): 0:(314.0,1290.0)
+:Sending Touch (ACTION_UP): 0:(391.28815,1251.531)
+:Sending Touch (ACTION_DOWN): 0:(307.0,1457.0)
+:Sending Touch (ACTION_UP): 0:(303.1141,1452.8253)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+Events injected: 50
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=260ms (0ms mobile, 0ms wifi, 260ms not connected)
+// Monkey finished
+Success
+Finish --  begin sleep
+/home/dummy/Repair/rewrite/TaintInstr/sootOutput/PlayStore1.apk
+Enter Passphrase for keystore: jar signed.
+
+Warning: 
+No -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2043-10-05) or after any future revocation date.
+[100%] /data/local/tmp/PlayStore1.apk
+	pkg: /data/local/tmp/PlayStore1.apk
+Success
+:Monkey: seed=1485334231900 count=50
+:AllowPackage: de.ecspride
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.ecspride/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.ecspride/.MainActivity } in package de.ecspride
+:Sending Touch (ACTION_DOWN): 0:(670.0,1456.0)
+:Sending Touch (ACTION_UP): 0:(569.72687,1594.3832)
+:Sending Touch (ACTION_DOWN): 0:(1376.0,1695.0)
+:Sending Touch (ACTION_UP): 0:(1386.824,1696.331)
+:Sending Touch (ACTION_DOWN): 0:(542.0,7.0)
+:Sending Touch (ACTION_UP): 0:(561.06976,2.8763657)
+:Sending Touch (ACTION_DOWN): 0:(288.0,173.0)
+:Sending Touch (ACTION_UP): 0:(287.4686,169.34517)
+:Sending Touch (ACTION_DOWN): 0:(149.0,1202.0)
+:Sending Touch (ACTION_UP): 0:(147.61095,1181.4054)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(235.0,842.0)
+:Sending Touch (ACTION_UP): 0:(249.27487,837.4587)
+:Sending Touch (ACTION_DOWN): 0:(680.0,209.0)
+:Sending Touch (ACTION_UP): 0:(682.1068,215.26434)
+:Sending Touch (ACTION_DOWN): 0:(50.0,1203.0)
+Events injected: 50
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=285ms (0ms mobile, 0ms wifi, 285ms not connected)
+// Monkey finished
+Success
+Finish --  begin sleep
+Reflection1.apk
+Enter Passphrase for keystore: jar signed.
+
+Warning: 
+No -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2043-10-05) or after any future revocation date.
+[100%] /data/local/tmp/Reflection1.apk
+	pkg: /data/local/tmp/Reflection1.apk
+Success
+:Monkey: seed=1485334245268 count=50
+:AllowPackage: de.ecspride
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.ecspride/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.ecspride/.MainActivity } in package de.ecspride
+:Sending Touch (ACTION_DOWN): 0:(297.0,656.0)
+:Sending Touch (ACTION_UP): 0:(304.53485,675.68005)
+:Sending Touch (ACTION_DOWN): 0:(290.0,1962.0)
+:Sending Touch (ACTION_UP): 0:(299.84918,1966.8607)
+:Sending Touch (ACTION_DOWN): 0:(467.0,1266.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(438.53488,1329.265)
+    // Injection Failed
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity } in package com.google.android.apps.walletnfcrel
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(73.0,1385.0)
+:Sending Touch (ACTION_UP): 0:(59.99223,1400.4868)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+Events injected: 50
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=6 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=326ms (0ms mobile, 0ms wifi, 326ms not connected)
+// Monkey finished
+Success
+Finish --  begin sleep
+
+
+++++++++++++++++++++++++++++++++++++++++ LOGCAT OUTPUT ++++++++++++++++++++++++++++++++++
+01-24 11:58:31.226 20229 20229 E [rewrite]: Successfully rewrite the app
+01-24 11:58:44.458 20328 20328 E [rewrite]: Successfully rewrite the app
+01-24 11:58:57.679 20425 20425 E [rewrite]: Successfully rewrite the app
+01-24 11:59:24.179 20614 20614 E [rewrite]: Successfully rewrite the app
+01-24 11:59:37.382 20709 20709 E [rewrite]: Successfully rewrite the app
+01-24 11:59:50.600 20835 20835 E [rewrite]: Successfully rewrite the app
+01-24 12:00:04.989 20990 20990 E [rewrite]: Successfully rewrite the app
+01-24 12:00:19.585 21094 21094 E [rewrite]: Successfully rewrite the app
+01-24 12:00:32.941 21190 21190 E [rewrite]: Successfully rewrite the app
+
