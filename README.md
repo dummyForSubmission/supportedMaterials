@@ -45,7 +45,7 @@ We also provide other cases for demonstrate the UCer's usablity than current and
 
 ###Better than Android dynamic permission
 
-###Better than taintDroid
+###Better than TaintDroid
 
 Rather than TaintDroid tracks everything and print all the taint information. Ucer is able to print user interesting taint information. UCer is also able to provide user an option to teminate the invocation at runtime. 
 
