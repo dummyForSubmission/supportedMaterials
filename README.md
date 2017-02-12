@@ -16,7 +16,7 @@ Inlcude original and rewrited apps, the virus-total report and results from tain
 
 We prevent the privacy leakage insert a dummy deviceID.
 
-<img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-proactive-privacy-protection/s1.png" height="70" width="700">
+<img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-proactive-privacy-protection/s1.png" height="80" width="700">
 
 And the XML files are dumped using adb pull from the data storage:
 
@@ -25,7 +25,7 @@ And the XML files are dumped using adb pull from the data storage:
 
 We prevent an ICC vulnerability by inspecting the explicit intent and insert a dummy deviceID
 
-<img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-mitigate-ICC/sc.png" height="70" width="700">
+<img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-mitigate-ICC/sc.png" height="100" width="700">
 
 
 
@@ -33,7 +33,7 @@ We prevent an ICC vulnerability by inspecting the explicit intent and insert a d
 
 
 
-<img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-location-restriction/screen.png" height="70" width="700">
+<img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-location-restriction/screen.png" height="100" width="700">
 
 At runtime, we observe the dummy location. It shows the app presents a dummy location (Washington) at runtime.
 
