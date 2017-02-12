@@ -1,5 +1,0 @@
-
-com.bdsmartapp.prayerbd.Parser_Json
-org.json.JSONObject getJSONfromURL
-specialinvoke $r2.<org.apache.http.client.methods.HttpPost: void <init>(java.lang.String)>($r0)
-
