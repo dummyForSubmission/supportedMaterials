@@ -11,7 +11,7 @@ We also present an ICFG and taint-flow-graph demo for button1.apk
 Inlcude original and rewrited apps, the virus-total report and results from taint-flow analysis
 
 Case1
-![ADB logcat](https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-proactive-privacy-protection/s1.png | width=100)
+![ADB logcat](https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-proactive-privacy-protection/s1.png| width=100)
 
 And the XML files in the data storage:
 
