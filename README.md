@@ -3,20 +3,22 @@
 We provide with original and rewrited apps, taint-flow analysis results and case studies screenshot for reproduction.
 The dummy repository for anonymous submission.
 
-##benchApps
+##BenchApps
 Contains original and rewrited apps from benchmark test.
+
 We also present an ICFG and taint-flow-graph demo for button1.apk
 
 ##Cases
+
 Inlcude original and rewrited apps, the virus-total report and results from taint-flow analysis
 
 ###Case1
 
-We prevent the privacy leakage insert a dummy deviceID
+We prevent the privacy leakage insert a dummy deviceID.
 
 <img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-proactive-privacy-protection/s1.png" height="70" width="700">
 
-And the XML files in the data storage:
+And the XML files are dumped using adb pull from the data storage:
 
 
 ###Case2
