@@ -35,7 +35,7 @@ We prevent an ICC vulnerability by inspecting the explicit intent and insert a d
 
 At runtime, we observe the dummy location. It shows the app presents a dummy location (Washington) at runtime.
 
-<img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-location-restriction/sc.png" height="700" width="70">
+<img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-location-restriction/sc.png" height="500" width="300">
 
 
 ##Other Cases
