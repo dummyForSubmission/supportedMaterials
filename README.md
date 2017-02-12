@@ -45,7 +45,8 @@ At runtime, we observe the dummy location. It shows the app presents a dummy loc
 We also provide other cases for demonstrate the UCer's usablity than current android dynamic permissions and TaintDroid.
 
 ###Fine-grained and Context-sensitive enhanced Android dynamic permission
-
+<img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-others/contextSen.png" alt="UCer layout"  height="500" width="300">  <img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-others/dynamic.png" alt="Dynamic layout"  height="500" width="500"> 
+Ucer Layout v.s. Dynamic Permission
 
 ###Usable than TaintDroid
 
