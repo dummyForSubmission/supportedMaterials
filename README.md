@@ -1,7 +1,8 @@
 #Supported Materials. 
 
 We provide with original and rewrited apps, taint-flow analysis results and case studies screenshot for reproduction.
-The dummy repository for anonymous submission.
+
+The dummy repository is only used for anonymous submission.
 
 ##BenchApps
 Contains original and rewrited apps from benchmark test.
