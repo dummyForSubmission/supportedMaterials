@@ -1,0 +1,170 @@
+******************************
+APKname
+/home/dummy/Repair/DroidBench/ApkForRewrite/Button1.apk
+Time
+2.524018941
+classname
+de.ecspride.Button1
+methodname
+sendMessage
+signature
+<de.ecspride.Button1: void sendMessage(android.view.View)>
+-------
+StmtMethod
+sendTextMessage
+StmtSignature
+virtualinvoke $r4.<android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)>("+49", null, $r2, null, null)
++++++++++one pass+++++++++++++++
+******************************
+APKname
+/home/dummy/Repair/DroidBench/ApkForRewrite/InheritedObjects1.apk
+Time
+1.279187039
+classname
+de.ecspride.InheritedObjects1
+methodname
+onCreate
+signature
+<de.ecspride.InheritedObjects1: void onCreate(android.os.Bundle)>
+-------
+StmtMethod
+sendTextMessage
+StmtSignature
+virtualinvoke $r5.<android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)>("+49 1234", null, $r6, null, null)
++++++++++one pass+++++++++++++++
+******************************
+APKname
+/home/dummy/Repair/DroidBench/ApkForRewrite/PlayStore1.apk
+Time
+1.905449918
+classname
+de.ecspride.MainActivity
+methodname
+onCreate
+signature
+<de.ecspride.MainActivity: void onCreate(android.os.Bundle)>
+-------
+StmtMethod
+sendTextMessage
+StmtSignature
+virtualinvoke $r13.<android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)>("+49 1234", null, $r3, null, null)
++++++++++one pass+++++++++++++++
+******************************
+APKname
+/home/dummy/Repair/DroidBench/ApkForRewrite/Loop2.apk
+Time
+1.141944028
+classname
+de.ecspride.LoopExample2
+methodname
+onCreate
+signature
+<de.ecspride.LoopExample2: void onCreate(android.os.Bundle)>
+-------
+StmtMethod
+sendTextMessage
+StmtSignature
+virtualinvoke $r6.<android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)>("+49 1234", null, $r5, null, null)
++++++++++one pass+++++++++++++++
+******************************
+APKname
+/home/dummy/Repair/DroidBench/ApkForRewrite/ArrayAccess1.apk
+Time
+1.133149265
+classname
+de.ecspride.ArrayAccess1
+methodname
+onCreate
+signature
+<de.ecspride.ArrayAccess1: void onCreate(android.os.Bundle)>
+-------
+StmtMethod
+sendTextMessage
+StmtSignature
+virtualinvoke $r6.<android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)>("+49 1234", null, $r5, null, null)
++++++++++one pass+++++++++++++++
+******************************
+APKname
+/home/dummy/Repair/DroidBench/ApkForRewrite/Merge1.apk
+Time
+1.74236675
+classname
+de.ecspride.MainActivity
+methodname
+aliasFlowTest
+signature
+<de.ecspride.MainActivity: void aliasFlowTest()>
+-------
+StmtMethod
+sendTextMessage
+StmtSignature
+virtualinvoke $r8.<android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)>("+49 1234", null, $r7, null, null)
++++++++++one pass+++++++++++++++
+******************************
+APKname
+/home/dummy/Repair/DroidBench/ApkForRewrite/DirectLeak1.apk
+Time
+1.109481869
+classname
+de.ecspride.MainActivity
+methodname
+onCreate
+signature
+<de.ecspride.MainActivity: void onCreate(android.os.Bundle)>
+-------
+StmtMethod
+sendTextMessage
+StmtSignature
+virtualinvoke $r4.<android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)>("+49 1234", null, $r5, null, null)
++++++++++one pass+++++++++++++++
+******************************
+APKname
+/home/dummy/Repair/DroidBench/ApkForRewrite/ActivityLifecycle2.apk
+Time
+1.145791235
+classname
+de.ecspride.GeneralActivity
+methodname
+onResume
+signature
+<de.ecspride.GeneralActivity: void onResume()>
+-------
+StmtMethod
+sendTextMessage
+StmtSignature
+virtualinvoke $r2.<android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)>("+49 1234", null, $r1, null, null)
++++++++++one pass+++++++++++++++
+******************************
+APKname
+/home/dummy/Repair/DroidBench/ApkForRewrite/ActivityCommunication1.apk
+Time
+1.075603538
+classname
+de.ecspride.Activity1
+methodname
+onCreate
+signature
+<de.ecspride.Activity1: void onCreate(android.os.Bundle)>
+-------
+StmtMethod
+sendTextMessage
+StmtSignature
+virtualinvoke $r3.<android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)>("+49", null, $r2, null, null)
++++++++++one pass+++++++++++++++
+******************************
+APKname
+/home/dummy/Repair/DroidBench/ApkForRewrite/Reflection1.apk
+Time
+1.224235009
+classname
+de.ecspride.MainActivity
+methodname
+onCreate
+signature
+<de.ecspride.MainActivity: void onCreate(android.os.Bundle)>
+-------
+StmtMethod
+sendTextMessage
+StmtSignature
+virtualinvoke $r7.<android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)>("+49 1234", null, $r2, null, null)
++++++++++one pass+++++++++++++++

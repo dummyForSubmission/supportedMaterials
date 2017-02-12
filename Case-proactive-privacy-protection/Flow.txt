@@ -1,0 +1,15 @@
+[main] INFO soot.jimple.infoflow.Infoflow - [Infoflow] The sink $r7 = interfaceinvoke $r7.<android.content.SharedPreferences$Editor: android.content.SharedPreferences$Editor putString(java.lang.String,java.lang.String)>("KA", $r1) in method <com.ggbook.i.c: void b()> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.Infoflow - - $r3 = virtualinvoke $r2.<android.telephony.TelephonyManager: java.lang.String getDeviceId()>() in method <com.ggbook.i.c: java.lang.String d()>
+[main] INFO soot.jimple.infoflow.Infoflow - 	on Path: 
+[main] INFO soot.jimple.infoflow.Infoflow - 	 -> <com.ggbook.i.c: java.lang.String d()>
+[main] INFO soot.jimple.infoflow.Infoflow - 		 -> $r3 = virtualinvoke $r2.<android.telephony.TelephonyManager: java.lang.String getDeviceId()>()
+[main] INFO soot.jimple.infoflow.Infoflow - 	 -> <com.ggbook.i.c: java.lang.String d()>
+[main] INFO soot.jimple.infoflow.Infoflow - 		 -> $r4 = $r3
+[main] INFO soot.jimple.infoflow.Infoflow - 	 -> <com.ggbook.i.c: java.lang.String d()>
+[main] INFO soot.jimple.infoflow.Infoflow - 		 -> return $r4
+[main] INFO soot.jimple.infoflow.Infoflow - 	 -> <com.ggbook.i.c: void b()>
+[main] INFO soot.jimple.infoflow.Infoflow - 		 -> <com.ggbook.c: java.lang.String z> = $r1
+[main] INFO soot.jimple.infoflow.Infoflow - 	 -> <com.ggbook.i.c: void b()>
+[main] INFO soot.jimple.infoflow.Infoflow - 		 -> $r1 = <com.ggbook.c: java.lang.String z>
+[main] INFO soot.jimple.infoflow.Infoflow - 	 -> <com.ggbook.i.c: void b()>
+[main] INFO soot.jimple.infoflow.Infoflow - 		 -> $r7 = interfaceinvoke $r7.<android.content.SharedPreferences$Editor: android.content.SharedPreferences$Editor putString(java.lang.String,java.lang.String)>("KA", $r1)

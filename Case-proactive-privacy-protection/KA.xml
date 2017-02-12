@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="KA">12345678910</string>
+    <boolean name="IsImei" value="true" />
+    <string name="mac">44:80:eb:31:07:b8</string>
+</map>
+

@@ -1,0 +1,9 @@
+[main] INFO soot.jimple.infoflow.Infoflow - [Infoflow] The sink virtualinvoke $r0.<com.ksu.explicit1.MainActivity: void startActivity(android.content.Intent)>($r2) in method <com.ksu.explicit1.MainActivity: void onCreate(android.os.Bundle)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.Infoflow - - $r5 = virtualinvoke $r4.<android.telephony.TelephonyManager: java.lang.String getDeviceId()>() in method <com.ksu.explicit1.MainActivity: void onCreate(android.os.Bundle)>
+[main] INFO soot.jimple.infoflow.Infoflow - 	on Path: 
+[main] INFO soot.jimple.infoflow.Infoflow - 	 -> <com.ksu.explicit1.MainActivity: void onCreate(android.os.Bundle)>
+[main] INFO soot.jimple.infoflow.Infoflow - 		 -> $r5 = virtualinvoke $r4.<android.telephony.TelephonyManager: java.lang.String getDeviceId()>()
+[main] INFO soot.jimple.infoflow.Infoflow - 	 -> <com.ksu.explicit1.MainActivity: void onCreate(android.os.Bundle)>
+[main] INFO soot.jimple.infoflow.Infoflow - 		 -> virtualinvoke $r2.<android.content.Intent: android.content.Intent putExtra(java.lang.String,java.lang.String)>("data", $r5)
+[main] INFO soot.jimple.infoflow.Infoflow - 	 -> <com.ksu.explicit1.MainActivity: void onCreate(android.os.Bundle)>
+[main] INFO soot.jimple.infoflow.Infoflow - 		 -> virtualinvoke $r0.<com.ksu.explicit1.MainActivity: void startActivity(android.content.Intent)>($r2)

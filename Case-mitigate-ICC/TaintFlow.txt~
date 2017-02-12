@@ -1,0 +1,642 @@
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/ketian/Repair/flowdroidSource/heros-develop/slf4j-simple-1.7.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/ketian/.m2/repository/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/ketian/Repair/flowdroidSource/soot-infoflow-develop/lib/slf4j-simple-1.7.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.SimpleLoggerFactory]
+[yaogroup] config information
+soot.jimple.infoflow.android.InfoflowAndroidConfiguration@e9e54c2
+[yaogroup] NO IPCmananger
+[main] INFO soot.jimple.infoflow.taintWrappers.EasyTaintWrapper - Loaded wrapper entries for 70 classes and 11 exclusions.
+[yaogroup] Current working directory:/home/ketian/Repair/flowdroidSource/find-sink-location
+[main] INFO soot.jimple.infoflow.android.SetupApplication - ARSC file parsing took 0.00924552 seconds
+Warning: java.lang.Throwable is a phantom class!
+Warning: java.lang.Void is a phantom class!
+Warning: java.lang.Float is a phantom class!
+Warning: java.lang.Double is a phantom class!
+Warning: java.lang.AssertionError is a phantom class!
+Warning: java.lang.Integer is a phantom class!
+Warning: java.lang.NullPointerException is a phantom class!
+Warning: java.lang.Character is a phantom class!
+Warning: java.lang.Long is a phantom class!
+Warning: java.lang.Short is a phantom class!
+Warning: java.lang.StringBuffer is a phantom class!
+Warning: java.lang.Boolean is a phantom class!
+Warning: java.lang.Class is a phantom class!
+Warning: java.lang.Byte is a phantom class!
+Warning: java.lang.NoClassDefFoundError is a phantom class!
+Warning: java.lang.IndexOutOfBoundsException is a phantom class!
+Warning: java.lang.StackOverflowError is a phantom class!
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.Error is a phantom class!
+Warning: java.lang.AbstractMethodError is a phantom class!
+Warning: java.lang.ClassCastException is a phantom class!
+Warning: java.lang.Runnable is a phantom class!
+Warning: java.lang.VerifyError is a phantom class!
+Warning: java.lang.NoSuchFieldError is a phantom class!
+Warning: java.lang.IllegalMonitorStateException is a phantom class!
+Warning: java.lang.Thread is a phantom class!
+Warning: java.lang.UnknownError is a phantom class!
+Warning: java.lang.InternalError is a phantom class!
+Warning: java.lang.ArithmeticException is a phantom class!
+Warning: java.lang.String is a phantom class!
+Warning: java.lang.NegativeArraySizeException is a phantom class!
+Warning: java.lang.ClassCircularityError is a phantom class!
+Warning: java.lang.Cloneable is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+Warning: java.lang.LinkageError is a phantom class!
+Warning: java.lang.IncompatibleClassChangeError is a phantom class!
+Warning: java.lang.NoSuchMethodError is a phantom class!
+Warning: java.lang.RuntimeException is a phantom class!
+Warning: java.lang.ArrayIndexOutOfBoundsException is a phantom class!
+Warning: java.lang.ThreadDeath is a phantom class!
+Warning: java.io.Serializable is a phantom class!
+Warning: java.lang.InstantiationError is a phantom class!
+Warning: java.lang.IllegalAccessError is a phantom class!
+Warning: java.lang.Object is a phantom class!
+Warning: java.lang.ClassNotFoundException is a phantom class!
+Warning: java.lang.ClassFormatError is a phantom class!
+Warning: java.lang.UnsatisfiedLinkError is a phantom class!
+Warning: java.lang.ArrayStoreException is a phantom class!
+Warning: java.lang.ExceptionInInitializerError is a phantom class!
+Warning: java.lang.OutOfMemoryError is a phantom class!
+Warning: java.lang.CharSequence is a phantom class!
+Warning: java.io.FileDescriptor is a phantom class!
+Warning: java.util.Map is a phantom class!
+Warning: java.util.List is a phantom class!
+Warning: java.lang.Exception is a phantom class!
+Warning: java.lang.ClassLoader is a phantom class!
+Warning: java.util.HashMap is a phantom class!
+Warning: java.util.ArrayList is a phantom class!
+Warning: java.util.Iterator is a phantom class!
+Warning: java.util.Set is a phantom class!
+Warning: org.xmlpull.v1.XmlSerializer is a phantom class!
+Warning: java.io.IOException is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParser is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParserException is a phantom class!
+Warning: java.io.InputStream is a phantom class!
+Warning: java.lang.CloneNotSupportedException is a phantom class!
+Warning: java.io.File is a phantom class!
+Warning: java.io.FileNotFoundException is a phantom class!
+Warning: java.net.Socket is a phantom class!
+Warning: java.net.DatagramSocket is a phantom class!
+Warning: java.lang.Comparable is a phantom class!
+Warning: java.io.OutputStream is a phantom class!
+Warning: java.net.URISyntaxException is a phantom class!
+Warning: java.lang.Enum is a phantom class!
+Warning: java.io.FileInputStream is a phantom class!
+Warning: java.io.FileOutputStream is a phantom class!
+Warning: java.lang.IllegalArgumentException is a phantom class!
+Warning: java.util.Locale is a phantom class!
+Warning: java.nio.Buffer is a phantom class!
+Warning: java.io.PrintWriter is a phantom class!
+Warning: java.util.Random is a phantom class!
+Warning: android.app.Notification$BigPictureStyle is a phantom class!
+Warning: android.app.Notification$BigTextStyle is a phantom class!
+Warning: android.app.Notification$InboxStyle is a phantom class!
+Warning: java.net.SocketException is a phantom class!
+Warning: java.lang.SecurityException is a phantom class!
+Warning: java.lang.Appendable is a phantom class!
+Warning: java.lang.StringBuilder is a phantom class!
+Warning: java.lang.Iterable is a phantom class!
+Warning: java.util.concurrent.CountDownLatch is a phantom class!
+Warning: java.util.concurrent.Executor is a phantom class!
+Warning: java.util.concurrent.BlockingQueue is a phantom class!
+Warning: java.util.concurrent.ThreadFactory is a phantom class!
+Warning: java.util.concurrent.FutureTask is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicBoolean is a phantom class!
+Warning: java.lang.InterruptedException is a phantom class!
+Warning: java.util.concurrent.ExecutionException is a phantom class!
+Warning: java.util.concurrent.TimeUnit is a phantom class!
+Warning: java.util.concurrent.TimeoutException is a phantom class!
+Warning: java.util.concurrent.Callable is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicInteger is a phantom class!
+Warning: java.lang.ThreadLocal is a phantom class!
+Warning: java.io.Writer is a phantom class!
+Warning: java.util.LinkedHashMap is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeProvider is a phantom class!
+Warning: java.lang.ref.WeakReference is a phantom class!
+Warning: java.util.Comparator is a phantom class!
+Warning: java.lang.reflect.Method is a phantom class!
+Warning: org.xml.sax.XMLReader is a phantom class!
+Warning: java.util.regex.Pattern is a phantom class!
+Warning: java.lang.Deprecated is a phantom class!
+Warning: java.lang.IllegalAccessException is a phantom class!
+Warning: java.lang.IllegalStateException is a phantom class!
+Warning: java.lang.InstantiationException is a phantom class!
+Warning: java.lang.Math is a phantom class!
+Warning: java.lang.NoSuchMethodException is a phantom class!
+Warning: java.lang.NumberFormatException is a phantom class!
+Warning: java.lang.System is a phantom class!
+Warning: java.lang.UnsupportedOperationException is a phantom class!
+Warning: java.lang.reflect.Modifier is a phantom class!
+Warning: java.util.Arrays is a phantom class!
+Warning: java.util.Collection is a phantom class!
+Warning: java.util.Collections is a phantom class!
+Warning: java.util.Map$Entry is a phantom class!
+Warning: java.util.concurrent.CancellationException is a phantom class!
+Warning: java.util.concurrent.LinkedBlockingQueue is a phantom class!
+Warning: java.util.concurrent.ThreadPoolExecutor is a phantom class!
+[main] WARN soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Cannot generate constructor for phantom class android.os.Bundle
+[main] INFO soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Generated main method:
+    public static void dummyMainMethod(java.lang.String[])
+    {
+        java.lang.String[] $r0;
+        int $i0;
+        com.ksu.explicit1.MainActivity $r1;
+        com.ksu.explicit1.FooActivity $r2;
+
+        $r0 := @parameter0: java.lang.String[];
+
+        $i0 = 0;
+
+     label1:
+        if $i0 == 0 goto label3;
+
+        $r1 = new com.ksu.explicit1.MainActivity;
+
+        specialinvoke $r1.<com.ksu.explicit1.MainActivity: void <init>()>();
+
+        if $i0 == 1 goto label3;
+
+        virtualinvoke $r1.<com.ksu.explicit1.MainActivity: void onCreate(android.os.Bundle)>(null);
+
+     label2:
+        if $i0 == 4 goto label3;
+
+        if $i0 == 5 goto label2;
+
+     label3:
+        if $i0 == 7 goto label5;
+
+        $r2 = new com.ksu.explicit1.FooActivity;
+
+        specialinvoke $r2.<com.ksu.explicit1.FooActivity: void <init>()>();
+
+        if $i0 == 8 goto label5;
+
+        virtualinvoke $r2.<com.ksu.explicit1.FooActivity: void onCreate(android.os.Bundle)>(null);
+
+     label4:
+        if $i0 == 11 goto label5;
+
+        if $i0 == 12 goto label4;
+
+     label5:
+        if $i0 == 14 goto label1;
+
+        return;
+    }
+
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Collecting callbacks in DEFAULT mode...
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 0.0 seconds.
+[Spark] Solution found in 0.0 seconds.
+Callback analysis done.
+Warning: RelativeLayout is a phantom class!
+Warning: com.ksu.explicit1.RelativeLayout is a phantom class!
+Warning: android.view.RelativeLayout is a phantom class!
+Warning: TextView is a phantom class!
+Warning: com.ksu.explicit1.TextView is a phantom class!
+Warning: android.view.TextView is a phantom class!
+Found 1 layout controls in file res/layout/activity_main.xml
+Warning: java.lang.Throwable is a phantom class!
+Warning: java.lang.Void is a phantom class!
+Warning: java.lang.Float is a phantom class!
+Warning: java.lang.Double is a phantom class!
+Warning: java.lang.AssertionError is a phantom class!
+Warning: java.lang.Integer is a phantom class!
+Warning: java.lang.NullPointerException is a phantom class!
+Warning: java.lang.Character is a phantom class!
+Warning: java.lang.Long is a phantom class!
+Warning: java.lang.Short is a phantom class!
+Warning: java.lang.StringBuffer is a phantom class!
+Warning: java.lang.Boolean is a phantom class!
+Warning: java.lang.Class is a phantom class!
+Warning: java.lang.Byte is a phantom class!
+Warning: java.lang.NoClassDefFoundError is a phantom class!
+Warning: java.lang.IndexOutOfBoundsException is a phantom class!
+Warning: java.lang.StackOverflowError is a phantom class!
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.Error is a phantom class!
+Warning: java.lang.AbstractMethodError is a phantom class!
+Warning: java.lang.ClassCastException is a phantom class!
+Warning: java.lang.Runnable is a phantom class!
+Warning: java.lang.VerifyError is a phantom class!
+Warning: java.lang.NoSuchFieldError is a phantom class!
+Warning: java.lang.IllegalMonitorStateException is a phantom class!
+Warning: java.lang.Thread is a phantom class!
+Warning: java.lang.UnknownError is a phantom class!
+Warning: java.lang.InternalError is a phantom class!
+Warning: java.lang.ArithmeticException is a phantom class!
+Warning: java.lang.String is a phantom class!
+Warning: java.lang.NegativeArraySizeException is a phantom class!
+Warning: java.lang.ClassCircularityError is a phantom class!
+Warning: java.lang.Cloneable is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+Warning: java.lang.LinkageError is a phantom class!
+Warning: java.lang.IncompatibleClassChangeError is a phantom class!
+Warning: java.lang.NoSuchMethodError is a phantom class!
+Warning: java.lang.RuntimeException is a phantom class!
+Warning: java.lang.ArrayIndexOutOfBoundsException is a phantom class!
+Warning: java.lang.ThreadDeath is a phantom class!
+Warning: java.io.Serializable is a phantom class!
+Warning: java.lang.InstantiationError is a phantom class!
+Warning: java.lang.IllegalAccessError is a phantom class!
+Warning: java.lang.Object is a phantom class!
+Warning: java.lang.ClassNotFoundException is a phantom class!
+Warning: java.lang.ClassFormatError is a phantom class!
+Warning: java.lang.UnsatisfiedLinkError is a phantom class!
+Warning: java.lang.ArrayStoreException is a phantom class!
+Warning: java.lang.ExceptionInInitializerError is a phantom class!
+Warning: java.lang.OutOfMemoryError is a phantom class!
+Warning: java.lang.CharSequence is a phantom class!
+Warning: java.io.FileDescriptor is a phantom class!
+Warning: java.util.Map is a phantom class!
+Warning: java.util.List is a phantom class!
+Warning: java.lang.Exception is a phantom class!
+Warning: java.lang.ClassLoader is a phantom class!
+Warning: java.util.HashMap is a phantom class!
+Warning: java.util.ArrayList is a phantom class!
+Warning: java.util.Iterator is a phantom class!
+Warning: java.util.Set is a phantom class!
+Warning: org.xmlpull.v1.XmlSerializer is a phantom class!
+Warning: java.io.IOException is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParser is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParserException is a phantom class!
+Warning: java.io.InputStream is a phantom class!
+Warning: java.lang.CloneNotSupportedException is a phantom class!
+Warning: java.io.File is a phantom class!
+Warning: java.io.FileNotFoundException is a phantom class!
+Warning: java.net.Socket is a phantom class!
+Warning: java.net.DatagramSocket is a phantom class!
+Warning: java.lang.Comparable is a phantom class!
+Warning: java.io.OutputStream is a phantom class!
+Warning: java.net.URISyntaxException is a phantom class!
+Warning: java.lang.Enum is a phantom class!
+Warning: java.io.FileInputStream is a phantom class!
+Warning: java.io.FileOutputStream is a phantom class!
+Warning: java.lang.IllegalArgumentException is a phantom class!
+Warning: java.util.Locale is a phantom class!
+Warning: java.nio.Buffer is a phantom class!
+Warning: java.io.PrintWriter is a phantom class!
+Warning: java.util.Random is a phantom class!
+Warning: android.app.Notification$BigPictureStyle is a phantom class!
+Warning: android.app.Notification$BigTextStyle is a phantom class!
+Warning: android.app.Notification$InboxStyle is a phantom class!
+Warning: java.net.SocketException is a phantom class!
+Warning: java.lang.SecurityException is a phantom class!
+Warning: java.lang.Appendable is a phantom class!
+Warning: java.lang.StringBuilder is a phantom class!
+Warning: java.lang.Iterable is a phantom class!
+Warning: java.util.concurrent.CountDownLatch is a phantom class!
+Warning: java.util.concurrent.Executor is a phantom class!
+Warning: java.util.concurrent.BlockingQueue is a phantom class!
+Warning: java.util.concurrent.ThreadFactory is a phantom class!
+Warning: java.util.concurrent.FutureTask is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicBoolean is a phantom class!
+Warning: java.lang.InterruptedException is a phantom class!
+Warning: java.util.concurrent.ExecutionException is a phantom class!
+Warning: java.util.concurrent.TimeUnit is a phantom class!
+Warning: java.util.concurrent.TimeoutException is a phantom class!
+Warning: java.util.concurrent.Callable is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicInteger is a phantom class!
+Warning: java.lang.ThreadLocal is a phantom class!
+Warning: java.io.Writer is a phantom class!
+Warning: java.util.LinkedHashMap is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeProvider is a phantom class!
+Warning: java.lang.ref.WeakReference is a phantom class!
+Warning: java.util.Comparator is a phantom class!
+Warning: java.lang.reflect.Method is a phantom class!
+Warning: org.xml.sax.XMLReader is a phantom class!
+Warning: java.util.regex.Pattern is a phantom class!
+Warning: java.lang.Deprecated is a phantom class!
+Warning: java.lang.IllegalAccessException is a phantom class!
+Warning: java.lang.IllegalStateException is a phantom class!
+Warning: java.lang.InstantiationException is a phantom class!
+Warning: java.lang.Math is a phantom class!
+Warning: java.lang.NoSuchMethodException is a phantom class!
+Warning: java.lang.NumberFormatException is a phantom class!
+Warning: java.lang.System is a phantom class!
+Warning: java.lang.UnsupportedOperationException is a phantom class!
+Warning: java.lang.reflect.Modifier is a phantom class!
+Warning: java.util.Arrays is a phantom class!
+Warning: java.util.Collection is a phantom class!
+Warning: java.util.Collections is a phantom class!
+Warning: java.util.Map$Entry is a phantom class!
+Warning: java.util.concurrent.CancellationException is a phantom class!
+Warning: java.util.concurrent.LinkedBlockingQueue is a phantom class!
+Warning: java.util.concurrent.ThreadPoolExecutor is a phantom class!
+[main] WARN soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Cannot generate constructor for phantom class android.os.Bundle
+[main] INFO soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Generated main method:
+    public static void dummyMainMethod(java.lang.String[])
+    {
+        java.lang.String[] $r0;
+        int $i0;
+        com.ksu.explicit1.MainActivity $r1;
+        com.ksu.explicit1.FooActivity $r2;
+
+        $r0 := @parameter0: java.lang.String[];
+
+        $i0 = 0;
+
+     label1:
+        if $i0 == 0 goto label3;
+
+        $r1 = new com.ksu.explicit1.MainActivity;
+
+        specialinvoke $r1.<com.ksu.explicit1.MainActivity: void <init>()>();
+
+        if $i0 == 1 goto label3;
+
+        virtualinvoke $r1.<com.ksu.explicit1.MainActivity: void onCreate(android.os.Bundle)>(null);
+
+     label2:
+        if $i0 == 4 goto label2;
+
+        if $i0 == 5 goto label3;
+
+        if $i0 == 6 goto label2;
+
+     label3:
+        if $i0 == 8 goto label5;
+
+        $r2 = new com.ksu.explicit1.FooActivity;
+
+        specialinvoke $r2.<com.ksu.explicit1.FooActivity: void <init>()>();
+
+        if $i0 == 9 goto label5;
+
+        virtualinvoke $r2.<com.ksu.explicit1.FooActivity: void onCreate(android.os.Bundle)>(null);
+
+     label4:
+        if $i0 == 12 goto label4;
+
+        if $i0 == 13 goto label5;
+
+        if $i0 == 14 goto label4;
+
+     label5:
+        if $i0 == 16 goto label1;
+
+        return;
+    }
+
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 0.0 seconds.
+[Spark] Solution found in 0.0 seconds.
+Running incremental callback analysis for 2 components...
+Incremental callback analysis done.
+Found 2 callback methods for 2 components
+Found {res/layout/activity_main.xml=[-1 - android.widget.RelativeLayout, -1 - android.widget.TextView]} layout controls
+Entry point calculation done.
+Created a SourceSinkManager with 89 sources, 133 sinks, and 2 callback methods.
+Running data flow analysis...
+Running data flow analysis on /home/ketian/Repair/rewrite/casestudies/InterComponentCommunication_Explicit1.apk with 89 sources and 133 sinks...
+Starting infoflow computation...
+[main] INFO soot.jimple.infoflow.Infoflow - Resetting Soot...
+Warning: java.lang.Object is a phantom class!
+Warning: java.lang.String is a phantom class!
+Warning: java.lang.CharSequence is a phantom class!
+Warning: java.io.FileDescriptor is a phantom class!
+Warning: java.util.Map is a phantom class!
+Warning: java.util.List is a phantom class!
+Warning: java.io.Serializable is a phantom class!
+Warning: java.lang.Exception is a phantom class!
+Warning: java.lang.ClassLoader is a phantom class!
+Warning: java.util.HashMap is a phantom class!
+Warning: java.util.ArrayList is a phantom class!
+Warning: java.lang.Throwable is a phantom class!
+Warning: java.util.Iterator is a phantom class!
+Warning: java.util.Set is a phantom class!
+Warning: org.xmlpull.v1.XmlSerializer is a phantom class!
+Warning: java.io.IOException is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParser is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParserException is a phantom class!
+Warning: java.lang.Runnable is a phantom class!
+Warning: java.io.InputStream is a phantom class!
+Warning: java.lang.Cloneable is a phantom class!
+Warning: java.lang.Byte is a phantom class!
+Warning: java.lang.CloneNotSupportedException is a phantom class!
+Warning: java.io.File is a phantom class!
+Warning: java.io.FileNotFoundException is a phantom class!
+Warning: java.net.Socket is a phantom class!
+Warning: java.net.DatagramSocket is a phantom class!
+Warning: java.lang.Comparable is a phantom class!
+Warning: java.io.OutputStream is a phantom class!
+Warning: java.lang.Class is a phantom class!
+Warning: java.net.URISyntaxException is a phantom class!
+Warning: java.lang.Enum is a phantom class!
+Warning: java.io.FileInputStream is a phantom class!
+Warning: java.io.FileOutputStream is a phantom class!
+Warning: java.lang.IllegalArgumentException is a phantom class!
+Warning: java.lang.Short is a phantom class!
+Warning: java.lang.Integer is a phantom class!
+Warning: java.lang.Long is a phantom class!
+Warning: java.lang.Float is a phantom class!
+Warning: java.lang.Double is a phantom class!
+Warning: java.lang.Boolean is a phantom class!
+Warning: java.util.Locale is a phantom class!
+Warning: java.lang.RuntimeException is a phantom class!
+Warning: java.nio.Buffer is a phantom class!
+Warning: java.lang.Thread is a phantom class!
+Warning: java.io.PrintWriter is a phantom class!
+Warning: java.lang.ClassNotFoundException is a phantom class!
+Warning: java.util.Random is a phantom class!
+Warning: android.app.Notification$BigPictureStyle is a phantom class!
+Warning: android.app.Notification$BigTextStyle is a phantom class!
+Warning: android.app.Notification$InboxStyle is a phantom class!
+Warning: java.net.SocketException is a phantom class!
+Warning: java.lang.SecurityException is a phantom class!
+Warning: java.lang.Appendable is a phantom class!
+Warning: java.lang.StringBuilder is a phantom class!
+Warning: java.lang.Iterable is a phantom class!
+Warning: java.util.concurrent.CountDownLatch is a phantom class!
+Warning: java.lang.Void is a phantom class!
+Warning: java.util.concurrent.Executor is a phantom class!
+Warning: java.util.concurrent.BlockingQueue is a phantom class!
+Warning: java.util.concurrent.ThreadFactory is a phantom class!
+Warning: java.util.concurrent.FutureTask is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicBoolean is a phantom class!
+Warning: java.lang.InterruptedException is a phantom class!
+Warning: java.util.concurrent.ExecutionException is a phantom class!
+Warning: java.util.concurrent.TimeUnit is a phantom class!
+Warning: java.util.concurrent.TimeoutException is a phantom class!
+Warning: java.util.concurrent.Callable is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicInteger is a phantom class!
+Warning: java.lang.ThreadLocal is a phantom class!
+Warning: java.io.Writer is a phantom class!
+Warning: java.util.LinkedHashMap is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeProvider is a phantom class!
+Warning: java.lang.ref.WeakReference is a phantom class!
+Warning: java.util.Comparator is a phantom class!
+Warning: java.lang.reflect.Method is a phantom class!
+Warning: org.xml.sax.XMLReader is a phantom class!
+Warning: java.util.regex.Pattern is a phantom class!
+Warning: java.lang.Deprecated is a phantom class!
+Warning: java.lang.IllegalAccessException is a phantom class!
+Warning: java.lang.IllegalStateException is a phantom class!
+Warning: java.lang.IndexOutOfBoundsException is a phantom class!
+Warning: java.lang.InstantiationException is a phantom class!
+Warning: java.lang.Math is a phantom class!
+Warning: java.lang.NoSuchFieldError is a phantom class!
+Warning: java.lang.NoSuchMethodException is a phantom class!
+Warning: java.lang.NullPointerException is a phantom class!
+Warning: java.lang.NumberFormatException is a phantom class!
+Warning: java.lang.System is a phantom class!
+Warning: java.lang.UnsupportedOperationException is a phantom class!
+Warning: java.lang.reflect.Modifier is a phantom class!
+Warning: java.util.Arrays is a phantom class!
+Warning: java.util.Collection is a phantom class!
+Warning: java.util.Collections is a phantom class!
+Warning: java.util.Map$Entry is a phantom class!
+Warning: java.util.concurrent.CancellationException is a phantom class!
+Warning: java.util.concurrent.LinkedBlockingQueue is a phantom class!
+Warning: java.util.concurrent.ThreadPoolExecutor is a phantom class!
+Warning: java.lang.AssertionError is a phantom class!
+Warning: java.lang.Character is a phantom class!
+Warning: java.lang.StringBuffer is a phantom class!
+Warning: java.lang.NoClassDefFoundError is a phantom class!
+Warning: java.lang.StackOverflowError is a phantom class!
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.Error is a phantom class!
+Warning: java.lang.AbstractMethodError is a phantom class!
+Warning: java.lang.ClassCastException is a phantom class!
+Warning: java.lang.VerifyError is a phantom class!
+Warning: java.lang.IllegalMonitorStateException is a phantom class!
+Warning: java.lang.UnknownError is a phantom class!
+Warning: java.lang.InternalError is a phantom class!
+Warning: java.lang.ArithmeticException is a phantom class!
+Warning: java.lang.NegativeArraySizeException is a phantom class!
+Warning: java.lang.ClassCircularityError is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+Warning: java.lang.LinkageError is a phantom class!
+Warning: java.lang.IncompatibleClassChangeError is a phantom class!
+Warning: java.lang.NoSuchMethodError is a phantom class!
+Warning: java.lang.ArrayIndexOutOfBoundsException is a phantom class!
+Warning: java.lang.ThreadDeath is a phantom class!
+Warning: java.lang.InstantiationError is a phantom class!
+Warning: java.lang.IllegalAccessError is a phantom class!
+Warning: java.lang.ClassFormatError is a phantom class!
+Warning: java.lang.UnsatisfiedLinkError is a phantom class!
+Warning: java.lang.ArrayStoreException is a phantom class!
+Warning: java.lang.ExceptionInInitializerError is a phantom class!
+Warning: java.lang.OutOfMemoryError is a phantom class!
+[main] INFO soot.jimple.infoflow.Infoflow - Basic class loading done.
+[main] WARN soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Cannot generate constructor for phantom class android.os.Bundle
+[main] INFO soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Generated main method:
+    public static void dummyMainMethod(java.lang.String[])
+    {
+        java.lang.String[] $r0;
+        int $i0;
+        com.ksu.explicit1.MainActivity $r1;
+        com.ksu.explicit1.FooActivity $r2;
+
+        $r0 := @parameter0: java.lang.String[];
+
+        $i0 = 0;
+
+     label1:
+        if $i0 == 0 goto label3;
+
+        $r1 = new com.ksu.explicit1.MainActivity;
+
+        specialinvoke $r1.<com.ksu.explicit1.MainActivity: void <init>()>();
+
+        if $i0 == 1 goto label3;
+
+        virtualinvoke $r1.<com.ksu.explicit1.MainActivity: void onCreate(android.os.Bundle)>(null);
+
+     label2:
+        if $i0 == 4 goto label2;
+
+        if $i0 == 5 goto label3;
+
+        if $i0 == 6 goto label2;
+
+     label3:
+        if $i0 == 8 goto label5;
+
+        $r2 = new com.ksu.explicit1.FooActivity;
+
+        specialinvoke $r2.<com.ksu.explicit1.FooActivity: void <init>()>();
+
+        if $i0 == 9 goto label5;
+
+        virtualinvoke $r2.<com.ksu.explicit1.FooActivity: void onCreate(android.os.Bundle)>(null);
+
+     label4:
+        if $i0 == 12 goto label4;
+
+        if $i0 == 13 goto label5;
+
+        if $i0 == 14 goto label4;
+
+     label5:
+        if $i0 == 16 goto label1;
+
+        return;
+    }
+
+[yaogroup] Runinfoflow analysis everything is here...
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 0.0 seconds.
+[Spark] Solution found in 0.0 seconds.
+[main] INFO soot.jimple.infoflow.Infoflow - Callgraph construction took 0.019811737 seconds
+[main] INFO soot.jimple.infoflow.codeOptimization.InterproceduralConstantValuePropagator - Removing side-effect free methods is disabled
+[main] INFO soot.jimple.infoflow.Infoflow - Dead code elimination took 0.006953189 seconds
+[main] INFO soot.jimple.infoflow.Infoflow - Callgraph has 19 edges
+[main] INFO soot.jimple.infoflow.Infoflow - Starting Taint Analysis
+[yaogroup] ICFG begins ... 
+[yaogroup] [infoflow] is contextsensitive? true
+[yaogroup] [infoflow] supportpathbuilder? true
+[yaogroup] [infoflow] AliasAlgorithm from config: FlowSensitive
+[main] INFO soot.jimple.infoflow.data.FlowDroidMemoryManager - Initializing FlowDroid memory manager...
+[main] INFO soot.jimple.infoflow.android.InfoflowAndroidConfiguration - Implicit flow tracking is NOT enabled
+[main] INFO soot.jimple.infoflow.android.InfoflowAndroidConfiguration - Exceptional flow tracking is enabled
+[main] INFO soot.jimple.infoflow.android.InfoflowAndroidConfiguration - Running with a maximum access path length of 5
+[main] INFO soot.jimple.infoflow.android.InfoflowAndroidConfiguration - Using path-agnostic result collection
+[main] INFO soot.jimple.infoflow.android.InfoflowAndroidConfiguration - Recursive access path shortening is enabled
+[main] INFO soot.jimple.infoflow.android.InfoflowAndroidConfiguration - Taint analysis enabled: true
+[main] INFO soot.jimple.infoflow.Infoflow - Looking for sources and sinks...
+[main] INFO soot.jimple.infoflow.Infoflow - Source lookup done, found 4 sources and 2 sinks.
+[main] INFO soot.jimple.infoflow.Infoflow - Taint wrapper hits: 0
+[main] INFO soot.jimple.infoflow.Infoflow - Taint wrapper misses: 0
+[yaogroup] ICFG
+ICFGfatory Type: DefaultBiDiICFGFactory
+ICFG Type: InfoflowCFG
+[main] INFO soot.jimple.infoflow.Infoflow - IFDS problem with 36 forward and 8 backward edges solved, processing 2 results...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Context-sensitive path reconstructor started
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Obtainted 2 connections between null sources and sinks
+[yaogroup] [Infoflow] execute the results?
+[main] INFO soot.jimple.infoflow.Infoflow - [Infoflow] The sink virtualinvoke $r0.<com.ksu.explicit1.MainActivity: void startActivity(android.content.Intent)>($r2) in method <com.ksu.explicit1.MainActivity: void onCreate(android.os.Bundle)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.Infoflow - - $r5 = virtualinvoke $r4.<android.telephony.TelephonyManager: java.lang.String getDeviceId()>() in method <com.ksu.explicit1.MainActivity: void onCreate(android.os.Bundle)>
+[main] INFO soot.jimple.infoflow.Infoflow - 	on Path: 
+[main] INFO soot.jimple.infoflow.Infoflow - 	 -> <com.ksu.explicit1.MainActivity: void onCreate(android.os.Bundle)>
+[main] INFO soot.jimple.infoflow.Infoflow - 		 -> $r5 = virtualinvoke $r4.<android.telephony.TelephonyManager: java.lang.String getDeviceId()>()
+[main] INFO soot.jimple.infoflow.Infoflow - 	 -> <com.ksu.explicit1.MainActivity: void onCreate(android.os.Bundle)>
+[main] INFO soot.jimple.infoflow.Infoflow - 		 -> virtualinvoke $r2.<android.content.Intent: android.content.Intent putExtra(java.lang.String,java.lang.String)>("data", $r5)
+[main] INFO soot.jimple.infoflow.Infoflow - 	 -> <com.ksu.explicit1.MainActivity: void onCreate(android.os.Bundle)>
+[main] INFO soot.jimple.infoflow.Infoflow - 		 -> virtualinvoke $r0.<com.ksu.explicit1.MainActivity: void startActivity(android.content.Intent)>($r2)
+[main] INFO soot.jimple.infoflow.Infoflow - [Infoflow] The sink staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("deviceid", $r3) in method <com.ksu.explicit1.FooActivity: void onCreate(android.os.Bundle)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.Infoflow - - $r2 = virtualinvoke $r0.<com.ksu.explicit1.FooActivity: android.content.Intent getIntent()>() in method <com.ksu.explicit1.FooActivity: void onCreate(android.os.Bundle)>
+[main] INFO soot.jimple.infoflow.Infoflow - 	on Path: 
+[main] INFO soot.jimple.infoflow.Infoflow - 	 -> <com.ksu.explicit1.FooActivity: void onCreate(android.os.Bundle)>
+[main] INFO soot.jimple.infoflow.Infoflow - 		 -> $r2 = virtualinvoke $r0.<com.ksu.explicit1.FooActivity: android.content.Intent getIntent()>()
+[main] INFO soot.jimple.infoflow.Infoflow - 	 -> <com.ksu.explicit1.FooActivity: void onCreate(android.os.Bundle)>
+[main] INFO soot.jimple.infoflow.Infoflow - 		 -> $r3 = virtualinvoke $r2.<android.content.Intent: java.lang.String getStringExtra(java.lang.String)>("data")
+[main] INFO soot.jimple.infoflow.Infoflow - 	 -> <com.ksu.explicit1.FooActivity: void onCreate(android.os.Bundle)>
+[main] INFO soot.jimple.infoflow.Infoflow - 		 -> staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("deviceid", $r3)
+Maximum memory consumption: 129.028216 MB
+Analysis has run for 2.384411663 seconds
+
+[yaogroup] Call Graph Size: 19
