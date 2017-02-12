@@ -61,7 +61,7 @@ Ucer is able to selectivley print user interesting taint information.
 
 UCer is also able to provide user an option to teminate the invocation at runtime. 
 
-<img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-others/outperformTainDroid.png" alt="UCer layout"  height="500" width="300">  <img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-others/taintdroid.jpg" alt="TaintDroid layout"  height="500" width="500"> 
+<img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-others/outperformTainDroid.png" alt="UCer layout"  height="500" width="300">  <img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-others/taintdroid.jpg" alt="TaintDroid layout"  height="500" width="300"> 
 
 Ucer Layout v.s. TaintDroid layout 
 
