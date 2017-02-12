@@ -25,7 +25,7 @@ And the XML files are dumped using adb pull from the data storage:
 
 We prevent an ICC vulnerability by inspecting the explicit intent and insert a dummy deviceID
 
-<img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-mitigate-ICC/sc.png" height="100" width="700">
+<img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-mitigate-ICC/sc.png" height="130" width="700">
 
 
 
