@@ -43,7 +43,8 @@ At runtime, we observe the dummy location. It shows the app presents a dummy loc
 ##Other Cases
 We also provide other cases for demonstrate the UCer's usablity than current android dynamic permissions and TaintDroid.
 
-###Better than Android dynamic permission
+###fine-grained and context-sensitive enhanced Android dynamic permission
+
 
 ###Usable than TaintDroid
 
