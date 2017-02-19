@@ -70,6 +70,8 @@ How to accurately confirm dynamic data leakage needs more efforts on the data mi
 
 Android dynamic permission only provides the reading alert, no tracking ability on the data usage.  Dynamic permission has no traceability on the usage of the permission.
 
+UCer can provide function-level invocation control, which is more fine-grained than current Android dynamic permission.
+
 UCer can provide more contexts to users, e.g., the permission that needs to invoke the function and the permission associated in its context.
 
 <img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-others/contextSen.png" alt="UCer layout"  height="500" width="300">  <img src="https://github.com/dummyForSubmission/supportedMaterials/blob/master/Case-others/dynamic.png" alt="Dynamic layout"  height="500" width="300"> 
