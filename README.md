@@ -25,14 +25,12 @@ The IDcheck function is inserted by app rewriting, we generate the rewriting spe
 
 And the XML files are dumped using ADB pull from the data storage:
 
-{% highlight xml %}
-<creator>
+~~~ xml
 <map>
 <string name="KA">12345678910</string>
 <boolean name="IsImei" value="true"/>
 </map>
-</creator>
-{% endhighlight %}
+~~~
 
 ###Case2
 
